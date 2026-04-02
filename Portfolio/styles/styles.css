@@ -10,12 +10,11 @@ body{
 }
 
 .slider{
+    position: relative;
     width: 100%;
     min-height: 50vh;
     aspect-ratio: 17/9;
-    background: black;
-    position: relative;
-   
+    background: black;  
 }
 
 .slider-background{
